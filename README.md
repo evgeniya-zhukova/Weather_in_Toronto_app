@@ -1,7 +1,7 @@
 # Weather in Toronto app
 
 ## Used Technologies:
-React JS, Open Weather API
+React JS, Open Weather API (http://api.openweathermap.org)
 
 ## Description:
 The application is an individual project developed with JavaScript library React JS and Open Weather API. The app shows several parameters of the current weather in Toronto. A user can see temperature, feels like temperature, humidity, wind speed, etc.
